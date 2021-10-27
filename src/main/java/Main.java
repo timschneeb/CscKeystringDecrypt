@@ -6,11 +6,6 @@ public class Main {
     private static final String TAG = "KeystringDecrypt";
 
     public static void main(String[] args) throws IOException {
-
-        // Test
-        args = new String[1];
-        args[0] = "/home/tim/DBT_keystrings.dat";
-
         if(args.length != 1)
         {
             System.out.println("Usage: CscKeystringDecrypt <encrypted file>");
