@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="utf-8"?>
+<keystrings>
+<Plm_Info>
+	<Single_Id>julia81.lee</Single_Id>
+	<Time_Of_Txt>  2011111004</Time_Of_Txt>
+	<Request_Office>null</Request_Office>
+	<Os>Android</Os>
+	<Request_Status>null</Request_Status>
+	<Phone_Type>null</Phone_Type>
+	<Keystring_Type>null</Keystring_Type>
+	<Approved_Status>APPROVED</Approved_Status>
+	<Communication_Mode></Communication_Mode>
+	<Csc_Code>DBT</Csc_Code>
+	<Req_Date>null</Req_Date>
+	<Use_Section></Use_Section>
+	<Keystring_Value>null</Keystring_Value>
+	<Search_Option>unchecked</Search_Option>
+	<End_Date>null</End_Date>
+	<Package>null</Package>
+</Plm_Info>
+<keystring>
+	<keysequence>*#1111#</keysequence>
+	<output>1111</output>
+	<packagename>com.sec.android.RilServiceModeApp</packagename>
+	<enable>true</enable>
+	<alwaysopen>true</alwaysopen>
+</keystring>
+<keystring>
+	<keysequence>*#2683662#</keysequence>
+	<output>2683662</output>
+	<enable>true</enable>
+	<alwaysopen>true</alwaysopen>
+</keystring>
+<keystring>
+	<keysequence>*#727728#</keysequence>
+	<output>727728</output>
+	<packagename></packagename>
+	<enable>true</enable>
+	<alwaysopen>true</alwaysopen>
+</keystring>
+<keystring>
+	<keysequence>*#12580*369#</keysequence>
+	<output>12580*369</output>
+	<enable>true</enable>
+	<alwaysopen>true</alwaysopen>
+</keystring>
+<keystring>
+	<keysequence>*#73#</keysequence>
+	<output>73</output>
+	<packagename></packagename>
+	<category>1</category>
+	<enable>true</enable>
+</keystring>
+<keystring>
+	<keysequence>*#4737678#</keysequence>
+	<output>4737678</output>
+	<packagename></packagename>
+	<enable>true</enable>
+</keystring>
+<keystring>
+	<keysequence>*#*#2627#*#*</keysequence>
+	<output>2627</output>
+	<packagename></packagename>
+	<enable>true</enable>
+	<alwaysopen>true</alwaysopen>
+</keystring>
+<keystring>
+	<keysequence>*#622#</keysequence>
+	<output>622</output>
+	<packagename>com.sec.android.app.factorykeystring</packagename>
+	<enable>true</enable>
+	<alwaysopen>true</alwaysopen>
+</keystring>
+<keystring>
+	<keysequence>*#297277#</keysequence>
+	<output>297277</output>
+	<enable>true</enable>
+</keystring>
+<keystring>
+	<keysequence>#7465625*638*#</keysequence>
+	<output>7465625*638*</output>
+	<packagename>com.sec.android.app.personalization</packagename>
+	<enable>true</enable>
+	<alwaysopen>true</alwaysopen>
+</keystring>
+<keystring>
+	<keysequence>*#0283#</keysequence>
+	<output>0283</output>
+	<packagename>com.sec.android.app.factorykeystring</packagename>
+	<enable>true</enable>
+	<alwaysopen>true</alwaysopen>
+</keystring>
+<keystring>
+	<keysequence>*#7738378633#</keysequence>
+	<output>7738378633</output>
+	<packagename>com.android.settings</packagename>
+	<enable>true</enable>
+</keystring>
+<keystring>
+	<keysequence>*#22558463#</keysequence>
+	<output>22558463</output>
+	<packagename>com.sec.android.app.servicemodeapp</packagename>
+	<enable>true</enable>
+	<alwaysopen>true</alwaysopen>
+</keystring>
+<keystring>
+	<keysequence>*#8727#</keysequence>
+	<output>8727</output>
+	<packagename>com.samsung.adaptivebrightnessgo</packagename>
+	<enable>true</enable>
+	<alwaysopen>true</alwaysopen>
+</keystring>
+<keystring>
+	<keysequence>*#159874#</keysequence>
+	<output>159874</output>
+	<packagename>com.sec.android.app.factorykeystring</packagename>
+	<enable>true</enable>
+	<alwaysopen>true</alwaysopen>
+</keystring>
+<keystring>
+	<keysequence>*#77694#</keysequence>
+	<output>77694</output>
+	<packagename></packagename>
+	<enable>true</enable>
+	<alwaysopen>true</alwaysopen>
+</keystring>
+<keystring>
+	<keysequence>*#7412365*</keysequence>
+	<output>7412365</output>
+	<packagename>com.sec.factory.camera</packagename>
+	<enable>true</enable>
+	<alwaysopen>true</alwaysopen>
+</keystring>
+<keystring>
+	<keysequence>*#65327#</keysequence>
+	<output>65327</output>
+	<enable>true</enable>
+	<alwaysopen>true</alwaysopen>
+</keystring>
+<keystring>
+	<keysequence>*#22228378#</keysequence>
+	<output>22228378</output>
+	<packagename>com.sec.android.app.factorykeystring</packagename>
+	<enable>true</enable>
+	<alwaysopen>true</alwaysopen>
+</keystring>
+<keystring>
+	<keysequence>*#87976633#</keysequence>
+	<output>87976633</output>
+	<packagename>com.sec.android.app.factorykeystring</packagename>
+	<enable>true</enable>
+	<alwaysopen>true</alwaysopen>
+</keystring>
+<keystring>
+	<keysequence>*#576#</keysequence>
+	<output>576</output>
+	<enable>true</enable>
+</keystring>
+<keystring>
+	<keysequence>*#878737837*633#</keysequence>
+	<output>878737837*633</output>
+	<packagename>com.android.settings</packagename>
+	<enable>true</enable>
+</keystring>
+<keystring>
+	<keysequence>*#34971539#</keysequence>
+	<output>34971539</output>
+	<packagename>com.sec.factory.camera</packagename>
+	<enable>true</enable>
+	<alwaysopen>true</alwaysopen>
+</keystring>
+<keystring>
+	<keysequence>*#88277*633#</keysequence>
+	<output>88277*633</output>
+	<enable>true</enable>
+	<alwaysopen>true</alwaysopen>
+</keystring>
+<keystring>
+	<keysequence>*#1234#</keysequence>
+	<output>1234</output>
+	<packagename>com.sec.android.app.factorykeystring</packagename>
+	<enable>true</enable>
+	<alwaysopen>true</alwaysopen>
+</keystring>
+<keystring>
+	<keysequence>*#4562580#</keysequence>
+	<output>4562580</output>
+	<packagename>com.sec.factory.camera</packagename>
+	<enable>true</enable>
+	<alwaysopen>true</alwaysopen>
+</keystring>
+<keystring>
+	<keysequence>*#88277*66#</keysequence>
+	<output>88277*66</output>
+	<enable>true</enable>
+	<alwaysopen>true</alwaysopen>
+</keystring>
+<keystring>
+	<keysequence>*#15987#</keysequence>
+	<output>15987</output>
+	<packagename>com.sec.android.app.factorykeystring</packagename>
+	<enable>true</enable>
+	<alwaysopen>true</alwaysopen>
+</keystring>
+<keystring>
+	<keysequence>*#66283782#</keysequence>
+	<output>66283782</output>
+	<packagename>com.samsung.android.app.omcagent</packagename>
+	<enable>true</enable>
+</keystring>
+<keystring>
+	<keysequence>*#*#88#*#*</keysequence>
+	<output>88</output>
+	<packagename>com.sec.android.app.factorykeystring</packagename>
+	<enable>true</enable>
+	<alwaysopen>true</alwaysopen>
+</keystring>
+<keystring>
+	<keysequence>*#6278355872#</keysequence>
+	<output>6278355872</output>
+	<packagename></packagename>
+	<enable>true</enable>
+	<alwaysopen>true</alwaysopen>
+</keystring>
+<keystring>
+	<keysequence>*#773837866#</keysequence>
+	<output>773837866</output>
+	<packagename>com.android.settings</packagename>
+	<enable>true</enable>
+</keystring>
+<keystring>
+	<keysequence>*#0011#</keysequence>
+	<output>0011</output>
+	<packagename>com.sec.android.RilServiceModeApp</packagename>
+	<enable>true</enable>
+	<alwaysopen>true</alwaysopen>
+</keystring>
+<keystring>
+	<keysequence>*#7676#</keysequence>
+	<output>7676</output>
+	<packagename>com.sec.android.app.factorykeystring</packagename>
+	<enable>true</enable>
+	<alwaysopen>true</alwaysopen>
+</keystring>
+<keystring>
+	<keysequence>*#8736364#</keysequence>
+	<output>8736364</output>
+	<packagename></packagename>
+	<enable>true</enable>
+</keystring>
+<keystring>
+	<keysequence>*#745#</keysequence>
+	<output>745</output>
+	<packagename></packagename>
+	<enable>true</enable>
+</keystring>
+<keystring>
+	<keysequence>*#9900#</keysequence>
+	<output>9900</output>
+	<packagename>com.sec.android.app.servicemodeapp</packagename>
+	<enable>true</enable>
+	<alwaysopen>true</alwaysopen>
+</keystring>
+<keystring>
+	<keysequence>*#2222#</keysequence>
+	<output>2222</output>
+	<packagename>com.sec.android.RilServiceModeApp</packagename>
+	<enable>true</enable>
+	<alwaysopen>true</alwaysopen>
+</keystring>
+<keystring>
+	<keysequence>*#26732777#</keysequence>
+	<output>26732777</output>
+	<packagename></packagename>
+	<enable>true</enable>
+</keystring>
+<keystring>
+	<keysequence>*#8928378#</keysequence>
+	<output>8928378</output>
+	<packagename></packagename>
+	<enable>true</enable>
+	<alwaysopen>true</alwaysopen>
+</keystring>
+<keystring>
+	<keysequence>*#06#</keysequence>
+	<output>06</output>
+	<packagename>com.sec.android.app.servicemodeapp</packagename>
+	<enable>true</enable>
+	<alwaysopen>true</alwaysopen>
+</keystring>
+<keystring>
+	<keysequence>*#66336#</keysequence>
+	<output>66336</output>
+	<packagename>com.sec.android.app.servicemodeapp</packagename>
+	<enable>true</enable>
+	<alwaysopen>true</alwaysopen>
+</keystring>
+<keystring>
+	<keysequence>*#9090#</keysequence>
+	<output>9090</output>
+	<packagename>com.sec.android.RilServiceModeApp</packagename>
+	<enable>true</enable>
+	<alwaysopen>true</alwaysopen>
+</keystring>
+<keystring>
+	<keysequence>*#77692#</keysequence>
+	<output>77692</output>
+	<packagename></packagename>
+	<enable>true</enable>
+	<alwaysopen>true</alwaysopen>
+</keystring>
+<keystring>
+	<keysequence>*#878737837*66#</keysequence>
+	<output>878737837*66</output>
+	<packagename>com.android.settings</packagename>
+	<enable>true</enable>
+</keystring>
+<keystring>
+	<keysequence>*#1106#</keysequence>
+	<output>1106</output>
+	<packagename>com.sec.android.app.factorykeystring</packagename>
+	<enable>true</enable>
+	<alwaysopen>true</alwaysopen>
+</keystring>
+<keystring>
+	<keysequence>*#7785#</keysequence>
+	<output>7785</output>
+	<enable>true</enable>
+	<alwaysopen>true</alwaysopen>
+</keystring>
+<keystring>
+	<keysequence>*#0*#</keysequence>
+	<output>0*</output>
+	<packagename></packagename>
+	<enable>true</enable>
+	<alwaysopen>true</alwaysopen>
+</keystring>
+<keystring>
+	<keysequence>*#2663#</keysequence>
+	<output>2663</output>
+	<packagename></packagename>
+	<enable>true</enable>
+	<alwaysopen>true</alwaysopen>
+</keystring>
+<keystring>
+	<keysequence>*#35789#</keysequence>
+	<output>35789</output>
+	<packagename>com.sec.android.app.factorykeystring</packagename>
+	<enable>true</enable>
+	<alwaysopen>true</alwaysopen>
+</keystring>
+<keystring>
+	<keysequence>*#7277#</keysequence>
+	<output>7277</output>
+	<packagename></packagename>
+	<enable>true</enable>
+	<alwaysopen>true</alwaysopen>
+</keystring>
+<keystring>
+	<keysequence>*#27743#</keysequence>
+	<output>27743</output>
+	<packagename>com.sec.android.app.factorykeystring</packagename>
+	<enable>true</enable>
+</keystring>
+<keystring>
+	<keysequence>*#33725327#</keysequence>
+	<output>.</output>
+	<packagename></packagename>
+	<enable>true</enable>
+</keystring>
+<keystring>
+	<keysequence>*#877#</keysequence>
+	<output>877</output>
+	<packagename>com.sec.android.app.factorykeystring</packagename>
+	<enable>true</enable>
+</keystring>
+<keystring>
+	<keysequence>*#3215987#</keysequence>
+	<output>3215987</output>
+	<packagename>com.sec.android.app.factorykeystring</packagename>
+	<enable>true</enable>
+</keystring>
+<keystring>
+	<keysequence>*#477#</keysequence>
+	<output>477</output>
+	<packagename>com.samsung.android.isag.issmanager</packagename>
+	<enable>true</enable>
+</keystring>
+<keystring>
+	<keysequence>*#6628378#</keysequence>
+	<output>6628378</output>
+	<packagename>com.samsung.android.app.omcagent</packagename>
+	<enable>true</enable>
+	<alwaysopen>true</alwaysopen>
+</keystring>
+<keystring>
+	<keysequence>*#0228#</keysequence>
+	<output>0228</output>
+	<packagename>com.sec.android.app.factorykeystring</packagename>
+	<enable>true</enable>
+	<alwaysopen>true</alwaysopen>
+</keystring>
+<keystring>
+	<keysequence>*#89283783#</keysequence>
+	<output>89283783</output>
+	<packagename></packagename>
+	<enable>true</enable>
+</keystring>
+</keystrings>
