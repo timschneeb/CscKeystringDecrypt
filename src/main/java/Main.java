@@ -6,6 +6,8 @@ public class Main {
     private static final String TAG = "KeystringDecrypt";
 
     public static void main(String[] args) throws IOException {
+
+
         if(args.length != 1)
         {
             System.out.println("Usage: CscKeystringDecrypt <encrypted file>");
